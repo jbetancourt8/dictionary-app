@@ -4,7 +4,7 @@ dictionary-app is a 12 language React application.
 
 ## Installation
 
-Clone the repo and use npm to install dictionary-app.
+Clone the repo and use npm to install dependencies.
 
 ```bash
 npm install 
